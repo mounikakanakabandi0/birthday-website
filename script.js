@@ -62,11 +62,11 @@ setTimeout(function(){
 
 showLetter();
 
-},2000);
+},6000);
 
 }
 
-},1000);
+},8000);
 
 }
 
@@ -75,9 +75,9 @@ showLetter();
 // ---------------------------
 
 let photos=[
-"photos/photo1.jpg",
-"photos/photo2.jpg",
-"photos/photo3.jpg"
+"photo1.jpg",
+"photo2.jpg",
+"photo3.jpg"
 ];
 
 let index=0;
@@ -100,7 +100,7 @@ slide.src=photos[index];
 
 }
 
-},3000);
+},5000);
 
 
 // Memories Page Slideshow
